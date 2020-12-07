@@ -55,5 +55,5 @@
 ### 20201207
 * 책, 동영상 없이 UI 만지작 거려보고 파일들의 상관관계를 되 짚어 봄
 * 책
-      * Installation failed due to: 'device offline' 이 계속 뜨면, 재부팅이 답. 으 답답...-_-
-      * https://sweji-home.tistory.com/27
+    * Installation failed due to: 'device offline' 이 계속 뜨면, 재부팅이 답. 으 답답...-_-
+        * https://sweji-home.tistory.com/27
