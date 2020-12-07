@@ -50,7 +50,7 @@
 * 한국인을 위한 안드로이드 스튜디오 코틀린 백과사전
     * 3:50붙이던가 하여간 끝까지 다 봄
           * 중간중간 삽질을 무지하게 했지만 그래도 필요한 부분은 다 따라 해봤고 끝까지 봤다
-               * import 못하고 can not resolve 어쩌고가 뜰때 해결 방법 -> https://kim-hoya.tistory.com/4
+                  * import 못하고 can not resolve 어쩌고가 뜰때 해결 방법 -> https://kim-hoya.tistory.com/4
                
 ### 20201207
 * 책, 동영상 없이 UI 만지작 거려보고 파일들의 상관관계를 되 짚어 봄
