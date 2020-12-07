@@ -57,3 +57,4 @@
 * 책
     * Installation failed due to: 'device offline' 이 계속 뜨면, 재부팅이 답. 으 답답...-_-
         * https://sweji-home.tistory.com/27
+    * 뒷부분은 거의 정신줄 놨지만 일단 319페이지까지 봤다.
